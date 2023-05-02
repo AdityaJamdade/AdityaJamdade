@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**AdityaJamdade/AdityaJamdade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Angular-Js, since it is a reliable framework to use in projects.
