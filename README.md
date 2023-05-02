@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Angular-Js, since it is a reliable framework to use in projects.
 - 👯 I’m looking to collaborate on React-Js Projects.
 - 🤔 I’m looking for help with competitive coding.
