@@ -11,8 +11,10 @@
 ## Here is the quick overview of the websites that I have published till now - 
 Some of these are made for sake of different bounties, so they really are not that great, but one day they will be!
 
-1. Young Youtube React App - https://idyllic-lily-c8f8ef.netlify.app/
+1. Young Youtube React App - https://young-youtube.netlify.app/
 2. A Multimedia File Manager React App - https://stackupadi-multimedia-app.netlify.app/
 3. TextUtils React App - https://adityajamdade.github.io/TextUtils-React-app/
+4. A Photo Gallery App - [https://stackupadi-photo-gallery-app.netlify.app/](https://stackupadi-photo-gallery-app.netlify.app/)
+5. Kanban App - https://stackupadi-kanban-app.netlify.app/
 
 A long way to go..
