@@ -14,7 +14,7 @@ Some of these are made for sake of different bounties, so they really are not th
 1. Young Youtube React App - https://young-youtube.netlify.app/
 2. A Multimedia File Manager React App - https://stackupadi-multimedia-app.netlify.app/
 3. TextUtils React App - https://adityajamdade.github.io/TextUtils-React-app/
-4. A Photo Gallery App - [https://stackupadi-photo-gallery-app.netlify.app/](https://stackupadi-photo-gallery-app.netlify.app/)
+4. A Photo Gallery App - [Photo Gallery](https://stackupadi-photo-gallery-app.netlify.app/)
 5. Kanban App - https://stackupadi-kanban-app.netlify.app/
 
 A long way to go..
