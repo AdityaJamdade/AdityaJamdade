@@ -16,5 +16,6 @@ Some of these are made for sake of different bounties, so they really are not th
 3. [TextUtils React App](https://adityajamdade.github.io/TextUtils-React-app/)
 4. [Photo Gallery](https://stackupadi-photo-gallery-app.netlify.app/)
 5. [Kanban App](https://stackupadi-kanban-app.netlify.app/)
+6. [Stopwatch App](https://stackupadi-stopwatch-app.netlify.app/)
 
 A long way to go..
