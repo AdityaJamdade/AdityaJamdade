@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-- 🌱 I recently started learning about web3, specially Hedera framework! 
+- 🌱 I recently started learning about web3, especially the Hedera framework!
 - 👯 I’m looking to collaborate on React-Js Projects.
 - 🤔 I’m looking for help with competitive coding.
 - 💬 Ask me about self-development and web-development.
 - 📫 How to reach me: mail at adijamdade156@gmail.com
 - ⚡ Fun fact: I am a Happy Engineer.
 
+## Quick Overview of Published Websites
 
-## Here is the quick overview of the websites that I have published till now - 
-Some of these are made for sake of different bounties, so they really are not that great, but one day they will be!
+Here is a quick overview of the websites that I have published till now. Some of these were made for the sake of different bounties, and they are not perfect, but like someone said, 'Nothing ever is', right!
 
 1. [Young Youtube React App](https://young-youtube.netlify.app/)
 2. [A Multimedia File Manager React App](https://stackupadi-multimedia-app.netlify.app/)
@@ -19,3 +19,13 @@ Some of these are made for sake of different bounties, so they really are not th
 6. [Stopwatch App](https://stackupadi-stopwatch-app.netlify.app/)
 
 A long way to go..
+
+---
+
+### My Profiles
+
+- **GFG:** [adijamdade156](https://auth.geeksforgeeks.org/user/adijamdade156/practice)
+- **LeetCode:** [adijamdade156](https://leetcode.com/adijamdade156/)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)
+- **Instagram:** [Your Instagram Profile](https://www.instagram.com/)
+- **Twitter:** [Your Twitter Profile](https://twitter.com/)
