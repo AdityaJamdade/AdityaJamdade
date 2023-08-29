@@ -20,12 +20,12 @@ Here is a quick overview of the websites that I have published till now. Some of
 
 A long way to go..
 
----
+--
 
 ### My Profiles
 
 - **GFG:** [adijamdade156](https://auth.geeksforgeeks.org/user/adijamdade156/practice)
 - **LeetCode:** [adijamdade156](https://leetcode.com/adijamdade156/)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)
-- **Instagram:** [Your Instagram Profile](https://www.instagram.com/)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/)
+- **LinkedIn:** [Aditya Jamdade](https://www.linkedin.com/in/aditya-jamdade)
+- **Instagram:** [adityaj.19](https://instagram.com/adityaj.19)
+- **Twitter:** [AdityaJamdade08](https://twitter.com/AdityaJamdade08)
