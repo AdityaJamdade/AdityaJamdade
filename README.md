@@ -29,3 +29,4 @@ A long way to go..
 - **LinkedIn:** [Aditya Jamdade](https://www.linkedin.com/in/aditya-jamdade)
 - **Instagram:** [adityaj.19](https://instagram.com/adityaj.19)
 - **Twitter:** [AdityaJamdade08](https://twitter.com/AdityaJamdade08)
+- **Discord:** [aditya_jamdade08](https://discord.com/users/aditya_jamdade08)
