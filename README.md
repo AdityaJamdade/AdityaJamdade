@@ -26,6 +26,7 @@ A long way to go..
 
 - **GFG:** [adijamdade156](https://auth.geeksforgeeks.org/user/adijamdade156/practice)
 - **LeetCode:** [adijamdade156](https://leetcode.com/adijamdade156/)
+- **Coding Ninjas:** [Aditya Jamdade](https://www.codingninjas.com/studio/profile/989a18a2-a83d-4963-8c42-afde094c6cb2)
 - **LinkedIn:** [Aditya Jamdade](https://www.linkedin.com/in/aditya-jamdade)
 - **Instagram:** [adityaj.19](https://instagram.com/adityaj.19)
 - **Twitter:** [AdityaJamdade08](https://twitter.com/AdityaJamdade08)
