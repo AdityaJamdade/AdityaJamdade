@@ -24,7 +24,7 @@ Wondering who am I well, I'm Aditya Jamdade, a student of Engineering at Pune In
 <summary>Key Skills and Interests</summary>
 
 - 💻 Programming Languages: C++, JavaScript
-- 🌐 Web Development: HTML, CSS, React.js
+- 🌐 Web Development: HTML, CSS, JavaScript, React.js
 - 🧠 Self-development and Learning
 - 🔍 Problem Solving and Competitive Coding
 - 💰 Entrepreneurship and Side Projects
