@@ -51,6 +51,12 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
 
 </details>
 
+<details>
+    <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="16" height="16" /> <b>GitHub Awards</b></summary>
+
+[![Github Trophy](https://github-trophies.vercel.app/?username=adityajamdade&no-frame=true&no-bg=true&margin-w=10&theme=algolia)](#hi-im-aditya-jamdade)
+
+</details>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajamdade&show_icons=true&locale=en&layout=compact" alt="adityajamdade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityajamdade&show_icons=true&locale=en" alt="adityajamdade" /></p>
