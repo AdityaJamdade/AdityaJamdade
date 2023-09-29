@@ -27,7 +27,7 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
 <a href="https://codingninjas.com/studio/profile/989a18a2-a83d-4963-8c42-afde094c6cb2" target="blank"><img align="center" src="https://codingninjas.com/assets-landing/images/CNLOGO.svg" alt="aditya" height="30" width="40" /></a>
 </p>
 
-<details>
+<details align="left">
 <summary>Key Skills and Interests</summary>
 
 - 💻 Programming Languages: C++, JavaScript
@@ -39,22 +39,23 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
 
 </details>
 
+<details align="left">
+<summary>Quick Overview of Published Websites</summary>
+
+- <a href="https://young-youtube.netlify.app/" target="_blank">Young Youtube React App</a>
+- <a href="https://stackupadi-multimedia-app.netlify.app/" target="_blank">A Multimedia File Manager React App</a>
+- <a href="https://adityajamdade.github.io/TextUtils-React-app/" target="_blank">TextUtils React App</a>
+- <a href="https://stackupadi-photo-gallery-app.netlify.app/" target="_blank">Photo Gallery</a>
+- <a href="https://stackupadi-kanban-app.netlify.app/" target="_blank">Kanban App</a>
+- <a href="https://stackupadi-stopwatch-app.netlify.app/" target="_blank">Stopwatch App</a>
+
+</details>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajamdade&show_icons=true&locale=en&layout=compact" alt="adityajamdade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityajamdade&show_icons=true&locale=en" alt="adityajamdade" /></p>
 
 ---
-
-<h3 align="left">Quick Overview of Published Websites</h3>
-
-Here's a quick look at the websites I've published so far. While some were created for various bounties and may not be perfect, they reflect my journey of continuous improvement.
-
-1. [Young Youtube React App](https://young-youtube.netlify.app/)
-2. [A Multimedia File Manager React App](https://stackupadi-multimedia-app.netlify.app/)
-3. [TextUtils React App](https://adityajamdade.github.io/TextUtils-React-app/)
-4. [Photo Gallery](https://stackupadi-photo-gallery-app.netlify.app/)
-5. [Kanban App](https://stackupadi-kanban-app.netlify.app/)
-6. [Stopwatch App](https://stackupadi-stopwatch-app.netlify.app/)
 
 It's a long way ahead, and I'm excited to continue this journey.
 
