@@ -25,6 +25,22 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
 <a href="https://codingninjas.com/studio/profile/989a18a2-a83d-4963-8c42-afde094c6cb2" target="blank"><img align="center" src="https://codingninjas.com/assets-landing/images/CNLOGO.svg" alt="aditya" height="30" width="40" /></a>
 </p>
 
+### Mostly Work With ⚒
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express%20JS-ffffff?style=for-the-badge&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-EF4E32?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+
 <details align="left">
 <summary>Key Skills and Interests</summary>
 
@@ -56,13 +72,15 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
 
 </details>
 
-## &#x1f4c8; GitHub Stats
+<h3> &#x1f4c8; Github Stats</h3>
+
 <section>
-<a href="#hi-iam-aditya-jamdade" align="left"><img src="https://github-readme-stats.vercel.app/api?username=adityajamdade&theme=algolia&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Aditya’ GitHub Stats" /><a/>
-<a href="#hi-iam-aditya-jamdade" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajamdade&theme=algolia&hide_border=true&stroke=0000&background=060A0CD0" alt="Aditya's streak status" /><a/>
-<br/>
 <p align='center'>
-<a href="#hi-iam-aditya-jamdade" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajamdade&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" alt="Aditya’ Top Languages Card" /><a/>
+<a href="#hi-iam-aditya-jamdade" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajamdade&theme=algolia&hide_border=true&stroke=0000&background=060A0CD0&width=100" alt="Aditya's streak status" /><a/>
+</p>
+<p align='center'>
+<a href="#hi-iam-aditya-jamdade" ><img src="https://github-readme-stats.vercel.app/api?username=adityajamdade&theme=algolia&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&height=100" alt="Aditya’ GitHub Stats" /><a/>
+<a href="#hi-iam-aditya-jamdade" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajamdade&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&width=200" alt="Aditya’ Top Languages Card" /><a/>
 </p>
 <br/>
 <section/>
