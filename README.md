@@ -4,8 +4,6 @@
 
 <img align="right" alt="coding" width="200" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-<div style="margin-bottom: -20px;"></div>
-
 An Engineering Student at Pune Institute of Computer Technology [PICT](https://pict.edu), who thrives on solving challenges, making websites and apps and, let's be honest, who likes making a little extra money along the way!, that's me!
 Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLife
 
@@ -57,11 +55,18 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
 [![Github Trophy](https://github-trophies.vercel.app/?username=adityajamdade&no-frame=true&no-bg=true&margin-w=10&theme=algolia)](#hi-im-aditya-jamdade)
 
 </details>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajamdade&show_icons=true&locale=en&layout=compact" alt="adityajamdade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityajamdade&show_icons=true&locale=en" alt="adityajamdade" /></p>
+## &#x1f4c8; GitHub Stats
+<section>
+<a href="#hi-iam-aditya-jamdade" align="left"><img src="https://github-readme-stats.vercel.app/api?username=adityajamdade&theme=algolia&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Aditya’ GitHub Stats" /><a/>
+<a href="#hi-iam-aditya-jamdade" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adityajamdade&theme=algolia&hide_border=true&stroke=0000&background=060A0CD0" alt="Aditya's streak status" /><a/>
+<br/>
+<p align='center'>
+<a href="#hi-iam-aditya-jamdade" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajamdade&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" alt="Aditya’ Top Languages Card" /><a/>
+</p>
+<br/>
+<section/>
 
 ---
 
 It's a long way ahead, and I'm excited to continue this journey.
-
