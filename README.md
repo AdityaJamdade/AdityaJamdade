@@ -80,8 +80,8 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
   <a href="#hi-iam-aditya-jamdade"><img title="🔥 Aditya's github streak" alt="Aditya's streak" src="https://streak-stats.demolab.com/?user=adityajamdade&theme=algolia&hide_border=true&stroke=0000&background=060A0CD0&card_width=760"/></a>
 </p>
 <p align='center'>
-<a href="#hi-iam-aditya-jamdade" ><img src="https://github-readme-stats.vercel.app/api?username=adityajamdade&theme=algolia&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&height=100" alt="Aditya’ GitHub Stats" /><a/>
-<a href="#hi-iam-aditya-jamdade" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajamdade&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&width=200" alt="Aditya’ Top Languages Card" /><a/>
+<a href="#hi-iam-aditya-jamdade" ><img src="https://github-readme-stats.vercel.app/api?username=adityajamdade&theme=algolia&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Aditya’ GitHub Stats" /><a/>
+<a href="#hi-iam-aditya-jamdade" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajamdade&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" alt="Aditya’ Top Languages Card" /><a/>
 </p>
 <br/>
 <section/>
