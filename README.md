@@ -13,7 +13,7 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
 
 | 🌱 **Learning**   | 🤔 **Seeking Help** | 💬 **Ask Me About** | 📫 **Reach Me**           | ⚡ **Fun Fact**        |
 |-------------------|---------------------|---------------------|--------------------------|------------------------|
-| Exploring web3, and Hedera framework | Competitive coding | Self-development, web development | Email me at adijamdade156@gmail.com | Life is Wonderful! |
+| TypeScript | Competitive coding | Self-development, web development | Email me at adijamdade156@gmail.com | Life is Wonderful! |
 
 ---
 
