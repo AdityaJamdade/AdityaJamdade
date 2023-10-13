@@ -88,4 +88,4 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
 
 ---
 
-> It's a long way ahead, and I'm excited to continue this journey.
+> Keep Grinding!
