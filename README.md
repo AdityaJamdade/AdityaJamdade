@@ -51,7 +51,7 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
 <summary>Key Skills and Interests</summary>
 
 - 💻 Programming Languages: C++, JavaScript
-- 🌐 Web Development: HTML, CSS, JavaScript, React.js
+- 🌐 Web Development: HTML, CSS, JavaScript,TypeScript, React.js
 - 🧠 Self-development and Learning
 - 🔍 Problem Solving and Competitive Coding
 - 💰 Entrepreneurship and Side Projects
