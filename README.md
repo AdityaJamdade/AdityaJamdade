@@ -63,6 +63,7 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
 <summary>Quick Overview of Published Websites</summary>
 
 - <a href="https://young-youtube.netlify.app/" target="_blank">Young Youtube React App</a>
+- <a href="https://finbox-frontend-amber.vercel.app/" target="_blank">FinBox</a>
 - <a href="https://stackupadi-multimedia-app.netlify.app/" target="_blank">A Multimedia File Manager React App</a>
 - <a href="https://adityajamdade.github.io/TextUtils-React-app/" target="_blank">TextUtils React App</a>
 - <a href="https://stackupadi-photo-gallery-app.netlify.app/" target="_blank">Photo Gallery</a>
