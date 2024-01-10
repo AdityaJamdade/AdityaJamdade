@@ -59,8 +59,6 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
 
 </details>
 
-📝 Want to see how I write, [HashNode](https://hashingaditya.hashnode.dev/)
-
 <details align="left">
 <summary>Quick Overview of Published Websites</summary>
 
@@ -80,6 +78,8 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
 [![Github Trophy](https://github-trophies.vercel.app/?username=adityajamdade&no-frame=true&no-bg=true&margin-w=10&theme=algolia)](#hi-im-aditya-jamdade)
 
 </details>
+
+📝 Want to see how I write, [HashNode](https://hashingaditya.hashnode.dev/)
 
 <h3> &#x1f4c8; Github Stats</h3>
 
