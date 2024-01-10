@@ -59,6 +59,8 @@ Let's connect and chat about all things tech and hustle! 😄💰 #EngineeringLi
 
 </details>
 
+📝 Want to see how I write, [HashNode](https://hashingaditya.hashnode.dev/)
+
 <details align="left">
 <summary>Quick Overview of Published Websites</summary>
 
